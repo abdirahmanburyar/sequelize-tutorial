@@ -1,1 +1,2 @@
 # erp-system
+# sequelize-tutorial
