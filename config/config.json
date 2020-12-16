@@ -1,0 +1,18 @@
+{
+  "development": {
+    "url": "postgres://postgres:postgres@localhost:5432/wasaarada_sh_shaqalaha",
+    "dialect": "postgres"
+  },
+  "test": {
+    "url": "postgres://postgres:postgres@localhost:5432/wasaarada_sh_shaqalaha",
+    "dialect": "postgres"
+  },
+  "staging": {
+    "url": "postgres://postgres:postgres@localhost:5432/wasaarada_sh_shaqalaha",
+    "dialect": "postgres"
+  },
+  "production": {
+    "url": "postgres://postgres:postgres@localhost:5432/wasaarada_sh_shaqalaha",
+    "dialect": "postgres"
+  }
+}
